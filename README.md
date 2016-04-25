@@ -5,4 +5,4 @@ Hi Patricks!
 
 Let's catch jelleyfish!
 
-[QR of my V-card](sass-proj/images/Vcard code.jpg)
+zhangwUO-cit281/sass-proj/images/Vcard code.jpg
